@@ -1,0 +1,2 @@
+# Fifa-worldcup-1930-2014-Data-Analysis
+These datasets includes the worldcup results and team information for 20 years in  which worldcup was held between 1930 to 2014. The First Dataset(Winning Title  Dataset) contain year in which worldcup is played, hosting countries, Winner, Runner-Up,Third,Fourth,Goals Scored,Qualified Teams,Matches  played,Attendence of the audience.The second Dataset(Matches Dataset) contains  Year,Datetime,Stage,stadium,city,home team and away team name,Home team and  away team goal,Referee name
